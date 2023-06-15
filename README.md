@@ -1,6 +1,6 @@
 # mealsappnew
 
-A new Flutter project.
+A very basic app 
 
 ## Getting Started
 
